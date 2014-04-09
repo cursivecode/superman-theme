@@ -2,8 +2,8 @@
 
 Superman is a theme/scheme combo for Sublime Text.
 
-![Superman Screenshot](screenshot-1.png)
-![Superman Screenshot](screenshot-2.png)
+![Superman Screenshot](https://raw.githubusercontent.com/cursivecode/superman-theme/master/screenshot-1.png)
+![Superman Screenshot](https://raw.githubusercontent.com/cursivecode/superman-theme/master/screenshot-2.png)
 
 ## Install
 
