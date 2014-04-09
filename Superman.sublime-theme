@@ -62,7 +62,7 @@
     // Tab close button
     {
         "class": "tab_close_button",
-        "layer0.texture": "Theme - Glacier/Glacier/close@2x.png",
+        "layer0.texture": "Theme - Superman/Superman/close@2x.png",
         "layer0.opacity": 0,
         "layer0.tint": [131,0,0]
     },
@@ -87,7 +87,7 @@
     {
         "class": "tab_close_button",
         "parents": [{"class": "tab_control","attributes": ["dirty"]}],
-        "layer0.texture": "Theme - Glacier/Glacier/circle@2x.png",
+        "layer0.texture": "Theme - Superman/Superman/circle@2x.png",
         "layer0.tint": [124,119,40],
         "layer0.opacity": 1
     },
@@ -101,7 +101,7 @@
     {
         "class": "tab_close_button",
         "parents": [{"class": "tab_control","attributes": ["dirty","hover"]}],
-        "layer0.texture": "Theme - Glacier/Glacier/close.png",
+        "layer0.texture": "Theme - Superman/Superman/close.png",
         "layer0.opacity": 1,
         "layer0.tint": [124,119,40]
     },
@@ -166,7 +166,7 @@
 
     {
         "class": "fold_button_control",
-        "layer0.texture": "Theme - Glacier/Glacier/folder-open.png",
+        "layer0.texture": "Theme - Superman/Superman/folder-open.png",
         "layer0.opacity": 0.25,
         "layer0.inner_margin": 0,
         "content_margin": [8,8]
@@ -179,7 +179,7 @@
     {
         "class": "fold_button_control",
         "attributes": ["expanded"],
-        "layer0.texture": "Theme - Glacier/Glacier/folder-closed.png"
+        "layer0.texture": "Theme - Superman/Superman/folder-closed.png"
     },
     {
         "class": "fold_button_control",
@@ -499,7 +499,7 @@
     // Sidebar file close
     {
         "class": "close_button",
-        "layer0.texture": "Theme - Glacier/Glacier/circle@2x.png",
+        "layer0.texture": "Theme - Superman/Superman/circle@2x.png",
         "layer0.opacity": 0,
         "layer0.inner_margin": 0,
         "layer0.tint": [208,29,51],
@@ -515,7 +515,7 @@
     {
         "class": "close_button",
         "attributes": ["dirty"],
-        "layer0.texture": "Theme - Glacier/Glacier/circle@2x.png",
+        "layer0.texture": "Theme - Superman/Superman/circle@2x.png",
         "layer0.opacity": 1,
         "layer0.tint": [208,29,51]
     },
@@ -523,13 +523,13 @@
         "class": "close_button",
         "attributes": ["dirty"],
         "parents": [{"class": "tree_row","attributes": ["selected"]}],
-        "layer0.texture": "Theme - Glacier/Glacier/close@2x.png"
+        "layer0.texture": "Theme - Superman/Superman/close@2x.png"
     },
     {
         "class": "close_button",
         "attributes": ["dirty"],
         "parents": [{"class": "tree_row","attributes": ["hover"]}],
-        "layer0.texture": "Theme - Glacier/Glacier/close@2x.png",
+        "layer0.texture": "Theme - Superman/Superman/close@2x.png",
         "layer0.opacity": 1,
         "layer0.tint": [208,29,51]
     },
@@ -537,12 +537,12 @@
     {
         "class": "close_button",
         "attributes": ["hover"],
-        "layer0.texture": "Theme - Glacier/Glacier/close@2x.png"
+        "layer0.texture": "Theme - Superman/Superman/close@2x.png"
     },
     {
         "class": "close_button",
         "parents": [{"class": "tree_row","attributes": ["hover","selected"]}],
-        "layer0.texture": "Theme - Glacier/Glacier/close@2x.png",
+        "layer0.texture": "Theme - Superman/Superman/close@2x.png",
         "layer0.opacity": 1
     },
 
@@ -554,7 +554,7 @@
     {
         "class": "disclosure_button_control",
         "content_margin": [9,9],
-        "layer0.texture": "Theme - Glacier/Glacier/folder@2x.png",
+        "layer0.texture": "Theme - Superman/Superman/folder@2x.png",
         "layer0.tint": [124,119,40],
         "layer0.opacity": 1,
         "layer0.inner_margin": 0
@@ -603,21 +603,18 @@
         "class": "disclosure_button_control",
         "settings": ["soda_folder_icons"],
         "attributes": ["expanded"]//,
-        // "layer0.texture": "Theme - Glacier/Glacier/folder-open.png"
     },
     {
         "class": "disclosure_button_control",
         "settings": ["soda_folder_icons"],
         "attributes": ["expanded"],
         "parents": [{"class": "tree_row","attributes": ["hover"]}]//,
-        // "layer0.texture": "Theme - Glacier/Glacier/folder-open.png"
     },
     {
         "class": "disclosure_button_control",
         "settings": ["soda_folder_icons"],
         "attributes": ["expanded"],
         "parents": [{"class": "tree_row","attributes": ["selected"]}]//,
-        // "layer0.texture": "Theme - Glacier/Glacier/folder-open.png"
     },
 
 //
@@ -852,7 +849,7 @@
     // Regex search button
     {
         "class": "icon_regex",
-        "layer0.texture": "Theme - Glacier/Glacier/regex.png",
+        "layer0.texture": "Theme - Superman/Superman/regex.png",
         "layer0.tint": [79,91,102],
         "layer0.opacity": 1,
         "content_margin": 8
@@ -870,7 +867,7 @@
     // Case sensitive search button
     {
         "class": "icon_case",
-        "layer0.texture": "Theme - Glacier/Glacier/casesens.png",
+        "layer0.texture": "Theme - Superman/Superman/casesens.png",
         "layer0.tint": [79,91,102],
         "layer0.opacity": 1,
         "content_margin": 8
@@ -888,7 +885,7 @@
     // Match whole word search button
     {
         "class": "icon_whole_word",
-        "layer0.texture": "Theme - Glacier/Glacier/wholeword.png",
+        "layer0.texture": "Theme - Superman/Superman/wholeword.png",
         "layer0.tint": [79,91,102],
         "layer0.opacity": 1,
         "content_margin": 8
@@ -911,7 +908,7 @@
     // Show search context button
     {
         "class": "icon_context",
-        "layer0.texture": "Theme - Glacier/Glacier/context.png",
+        "layer0.texture": "Theme - Superman/Superman/context.png",
         "layer0.tint": [79,91,102],
         "layer0.opacity": 1,
         "content_margin": 8
@@ -929,7 +926,7 @@
     // Use search buffer
     {
         "class": "icon_use_buffer",
-        "layer0.texture": "Theme - Glacier/Glacier/buffer.png",
+        "layer0.texture": "Theme - Superman/Superman/buffer.png",
         "layer0.tint": [79,91,102],
         "layer0.opacity": 1,
         "content_margin": 8
@@ -951,7 +948,7 @@
     // Reverse search direction button (ST2 only)
     {
         "class": "icon_reverse",
-        "layer0.texture": "Theme - Glacier/Glacier/reverse.png",
+        "layer0.texture": "Theme - Superman/Superman/reverse.png",
         "layer0.tint": [79,91,102],
         "layer0.opacity": 1,
         "content_margin": 8
@@ -969,7 +966,7 @@
     // Search wrap button
     {
         "class": "icon_wrap",
-        "layer0.texture": "Theme - Glacier/Glacier/wrap.png",
+        "layer0.texture": "Theme - Superman/Superman/wrap.png",
         "layer0.tint": [79,91,102],
         "layer0.opacity": 1,
         "content_margin": 8
@@ -987,7 +984,7 @@
     // Search in selection button
     {
         "class": "icon_in_selection",
-        "layer0.texture": "Theme - Glacier/Glacier/selection.png",
+        "layer0.texture": "Theme - Superman/Superman/selection.png",
         "layer0.tint": [79,91,103],
         "layer0.opacity": 1,
         "content_margin": 8
@@ -1010,7 +1007,7 @@
     // Preserve case button
     {
         "class": "icon_preserve_case",
-        "layer0.texture": "Theme - Glacier/Glacier/casesens.png",
+        "layer0.texture": "Theme - Superman/Superman/casesens.png",
         "layer0.tint": [79,91,102],
         "layer0.opacity": 1,
         "content_margin": 8
@@ -1033,7 +1030,7 @@
     // Highlight results button
     {
         "class": "icon_highlight",
-        "layer0.texture": "Theme - Glacier/Glacier/highlight.png",
+        "layer0.texture": "Theme - Superman/Superman/highlight.png",
         "layer0.tint": [79,91,102],
         "layer0.opacity": 1,
         "content_margin": 8
