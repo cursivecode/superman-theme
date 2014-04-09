@@ -7,6 +7,10 @@ Superman is a theme/scheme combo for Sublime Text.
 
 ## Install
 
+### Via Package Control
+
+Theme is listed as `Theme - Superman` in Will Bond's [Sublime Package Control](https://sublime.wbond.net).
+
 ### Manual
 
 1. [Download the zip file](https://github.com/cursivecode/superman-theme/archive/master.zip)
