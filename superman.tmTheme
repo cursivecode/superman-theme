@@ -325,6 +325,28 @@
 				<string>#232e5d</string>
 			</dict>
 		</dict>
+				<dict>
+			<key>name</key>
+			<string>Handlebar Curly Braces</string>
+			<key>scope</key>
+			<string>support.constant.handlebars</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#737373</string>
+			</dict>
+		</dict>
+				<dict>
+			<key>name</key>
+			<string>Curly Brace</string>
+			<key>scope</key>
+			<string>meta.brace.curly</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#737373</string>
+			</dict>
+		</dict>
 	</array>
 	<key>uuid</key>
 	<string>D8D5E82E-3D5B-46B5-B38E-8C841C21347D</string>
