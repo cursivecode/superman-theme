@@ -586,6 +586,7 @@
     // Sidebar group open
     {
         "class": "disclosure_button_control",
+        "layer0.tint": [136,20,33],
         "attributes": ["expanded"]
     },
     {
